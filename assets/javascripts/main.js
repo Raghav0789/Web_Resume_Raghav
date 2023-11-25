@@ -6,7 +6,7 @@ $(document).ready(function(){
 
     })
     $(".type").typed({
-      strings : ["Full Stack Developer","Application Developer","Compitative Programer","AI and ML Student"],
+      strings : ["Full Stack Developer","Application Developer","Competitive Programmer","AI and ML Student"],
       typeSpeed:100,backSpeed:50,loop : true
     })
     // $(".type").typed({
